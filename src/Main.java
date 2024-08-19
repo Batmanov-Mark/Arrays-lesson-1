@@ -26,7 +26,7 @@ public class Main {
         System.out.println();
 
         for (int i = 0; i < array2.length - 1; i++) {
-            System.out.print(array1[i] + ", ");
+            System.out.print(array2[i] + ", ");
         }
         System.out.print(array2[array2.length - 1]);
 
